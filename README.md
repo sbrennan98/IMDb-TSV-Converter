@@ -30,7 +30,7 @@ Column 6: knownForTitles (string in CSV format) <-- Useful for tying people to a
 
 Column 1: tconst        (string) <-- The unique ID assigned to every movie, show, and episode
 
-Column 2: titleType     (string) <-- may be useful: short, video, tvMovie, movie, tvEpisode, 
+Column 2: titleType     (string) <-- may be useful: short, video, tvMovie, movie, tvEpisode,
 
 videoGame, tvSeries, etc
 

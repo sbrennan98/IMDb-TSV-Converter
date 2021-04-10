@@ -1,3 +1,6 @@
+# TSV Data files; users can retrieve them themselves from IMDb
+*.tsv
+
 # Prerequisites
 *.d
 
